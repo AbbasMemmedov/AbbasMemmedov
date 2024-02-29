@@ -8,7 +8,7 @@ I'm Abbas Mammadov
 
 - 👀 I’m interested in Advanced JavaScript and CSS techniques.
 - 🌱 I’m currently learning <strong>Frontend Developer course</strong>  from ATL Academy.
-- 📫 How to reach me <a>mammadovabbas.0@gmail.com</a>
+- 📫 How to reach me <a href="mailto:mammadovabbas.0@gmail.com">mammadovabbas.0@gmail.com</a>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
