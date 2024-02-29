@@ -1,4 +1,4 @@
-<img src="[https://miro.medium.com/v2/resize:fit:1192/1*jXusXvCfxECPU_Jh9S_E3w.jpeg](https://topdev.vn/blog/wp-content/uploads/2023/02/front-end.png)">
+<img src="[[https://miro.medium.com/v2/resize:fit:1192/1*jXusXvCfxECPU_Jh9S_E3w.jpeg](https://topdev.vn/blog/wp-content/uploads/2023/02/front-end.png)](https://topdev.vn/blog/wp-content/uploads/2023/02/front-end.png)">
 <h1 align="center">Hi 👋,<br>
 I'm Abbas Mammadov
 </h1>
