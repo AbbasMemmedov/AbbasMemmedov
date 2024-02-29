@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋,<br>
 I'm Abbas Mammadov
 </h1>
-<h1></h1>
-<h3 align="center">A am Web Developer from Azerbaijan</h3>
 
+<h3 align="center">A am Web Developer from Azerbaijan</h3>
+<h1></h1>
 
 - 👀 I’m interested in Advanced JavaScript and CSS techniques.
 - 🌱 I’m currently learning <strong>Frontend Developer course</strong>  from ATL Academy.
