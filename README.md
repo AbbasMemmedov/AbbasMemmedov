@@ -1,4 +1,4 @@
-<img scr="https://miro.medium.com/v2/resize:fit:1192/1*jXusXvCfxECPU_Jh9S_E3w.jpeg">
+<img src="https://miro.medium.com/v2/resize:fit:1192/1*jXusXvCfxECPU_Jh9S_E3w.jpeg">
 <h1 align="center">Hi 👋,<br>
 I'm Abbas Mammadov
 </h1>
