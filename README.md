@@ -5,17 +5,6 @@ I'm Abbas Mammadov
 
 <h3 align="center">A am Web Developer from Azerbaijan</h3>
 
-
-
-
-
-
-
-
-
-
-
-
 - 👀 I’m interested in Advanced JavaScript and CSS techniques.
 - 🌱 I’m currently learning <strong>Frontend Developer course</strong>  from ATL Academy.
 - 📫 How to reach me <a href="mailto:mammadovabbas.0@gmail.com">mammadovabbas.0@gmail.com</a>
