@@ -1,3 +1,6 @@
+Hi 👋,
+I'm Abbas Mammadov
+
 👋 Hi,I’m Abbas Memmedov.
 👀 I’m interested in Advanced JavaScript and CSS techniques
 - 🌱 I’m currently learning ...
